@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seong-Jae%20Park's%20Github&render&fontSize=70)
-Hi
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋Welcome%20!&render&fontSize=70)
+<div align="center">
+  <h3>Seong-Jae Park's Github</h3>
+</div>
 <hr class = "one">
 <div align="center">
 <h3>🛠 Tech Stacks 🛠</h3>
@@ -26,7 +28,7 @@ Hi
 </div>
 <hr class = "one">
 <div align="center">
-<h3>Github Stat</h3>
+<h3>🔖 Github Stat 🔖</h3>
 </div> 
 
 <div align="center">
