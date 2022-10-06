@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&text=Hello)
-## Seong-Jae Park
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&render&fontSize=90)
 <hr class = "one">
 <div align="center">
 <h3>🛠 Tech Stacks 🛠</h3>
