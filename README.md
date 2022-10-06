@@ -1,4 +1,5 @@
 ## Seong-Jae Park
+<hr class = "one">
 <div align="center">
 <h3>Tech Stacks</h3>
 </div> 
