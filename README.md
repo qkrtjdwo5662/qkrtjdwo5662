@@ -1,7 +1,7 @@
 ## Seong-Jae Park
 <hr class = "one">
 <div align="center">
-<h3>Tech Stacks</h3>
+<h3>🛠 Tech Stacks 🛠</h3>
 </div> 
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
