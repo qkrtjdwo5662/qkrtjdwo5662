@@ -2,10 +2,12 @@
 <div align="center">
   <h3>Seong-Jae Park's Github</h3>
 </div>
-<hr class = "one">
+
 <div align="center">
+<br>
 <h3>🛠 Tech Stacks 🛠</h3>
 </div> 
+<hr class = "one">
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Csharp&logoColor=white"/>
@@ -26,11 +28,11 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-44C1C5?style=flat-square&logo=Notion&logoColor=white"/>
 </div>
-<hr class = "one">
+
 <div align="center">
 <h3>🔖 Github Stat 🔖</h3>
 </div> 
-
+<hr class = "one">
 <div align="center">
   
   ![qkrtjdwo5662's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrtjdwo5662&theme=dark&show_icons=true)
