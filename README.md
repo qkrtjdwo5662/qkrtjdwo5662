@@ -1,6 +1,7 @@
 ## Seong-Jae Park
-
-<h3>   Tech Stacks</h3>
+<div align="center">
+<h3>Tech Stacks</h3>
+</div> 
 <hr class = "one">
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
@@ -21,7 +22,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
  </div> 
-<h3>   Github Stat</h3>
+<div align="center">
+<h3>Github Stat</h3>
+</div> 
 <hr class = "one"></hr>
 <div align="center">
   
