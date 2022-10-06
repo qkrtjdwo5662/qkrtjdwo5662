@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-44C1C5?style=flat-square&logo=Notion&logoColor=white"/>
 </div>
-
+<br>
 <div align="center">
 <h3>🔖 Github Stat 🔖</h3>
 </div> 
