@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seong-Jae%Park's%20Github&render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seong-Jae%Park's%20Github&render&fontSize=70)
 <hr class = "one">
 <div align="center">
 <h3>🛠 Tech Stacks 🛠</h3>
