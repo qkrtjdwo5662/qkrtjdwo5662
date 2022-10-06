@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&textBg=Seong-Jae%Park's%Github%Profile&render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&textBg=true&render&fontSize=90)
 <hr class = "one">
 <div align="center">
 <h3>🛠 Tech Stacks 🛠</h3>
