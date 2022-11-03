@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋%20Welcome%20!&render&fontSize=70)
 <div align="center">
-  <h3>Seong-Jae Park's Github</h3>
+  <h2>Seong-Jae Park's Github</h2>
 </div>
 
 <div align="center">
