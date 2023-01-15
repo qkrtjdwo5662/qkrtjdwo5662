@@ -5,11 +5,11 @@
 
 <div align="center">
 <br>
-<h3>🛠 Tech Stacks 🛠</h3>
+<h3>🛠 Tech Stacks</h3>
 </div> 
 <hr class = "one">
 <div align="center">
-  <h4>📚Full📚</h4>
+  <h4>📚 Full</h4>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Notion-44C1C5?style=flat-square&logo=Notion&logoColor=white"/>
   <br>
   <br>
-  <h4>📗Main📗</h4>
+  <h4>📗 Main</h4>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
   <br>
@@ -42,8 +42,9 @@
 </div>
 <br>
 <br>
+
 <div align="center">
-<h3> 💁🏻‍♂️ About Me </h3>
+<h3>💁🏻‍♂️ About Me </h3>
 <hr class = "one">
   <table>
   <thead>
@@ -79,11 +80,55 @@
     </tr>
   </tbody>
   </table>
+  <table>
+    <thead>
+      <tr>
+      </tr>
+    </thead>
+    <tbody>
+    </tbody>
+  </table>
 </div>
 <br>
 <br>
+
 <div align="center">
-<h3>🔖 Github Stats 🔖</h3>
+<h3>👨🏻‍💻 Projects
+<hr class = "one">
+  <table>
+    <thead>
+      <tr>
+        <th>제목
+        <th>기간
+        <th>주요 개발기술
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>HSU_On : 한성대학교 메타버스 캠퍼스
+        <td>2021. 07 ~ 2022. 05(11개월)
+        <td>C#, Unity, Photon
+      </tr>
+      <tr>
+        <td>삵 : 자율주행로봇
+        <td>2021. 08 ~ 2021. 12(4개월)
+        <td>Python, OpenCV, Raspberry Pi
+      </tr>
+      <tr>
+        <td>President.CQ : 대부호 카드게임
+        <td>2022. 07 ~ 2022. 09(3개월)
+        <td>C#, Unity, Photon
+      </tr>
+      <tr>
+        <td>Hansung Vote : 학생회 선거 웹 어플리케이션
+        <td>2022. 07 ~ 2022. 11(5개월)
+        <td>Java, Spring, AWS
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div align="center">
+<h3>🔖 Github Stats</h3>
 </div> 
 <hr class = "one">
 <div align="center">
