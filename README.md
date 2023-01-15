@@ -43,7 +43,47 @@
 <br>
 <br>
 <div align="center">
-<h3>🔖 Github Stat 🔖</h3>
+<h3> 💁🏻‍♂️ About Me </h3>
+<hr class = "one">
+  <table>
+  <thead>
+    <tr>
+      <th>활동 내용
+      <th>기간
+    </tr>
+  <thead>
+  <tbody>
+    <tr>
+      <td>신일고등학교 졸업
+      <td>2015. 02
+    </tr>
+    <tr>
+      <td>한성대학교 IT공과대학 입학
+      <td>2017. 03
+    </tr>
+    <tr>
+      <td>한성대학교 컴퓨터공학부 정학생회장
+      <td>2021. 01 ~ 2021. 12
+    </tr>
+    <tr>
+      <td>한성대학교 학술소모임 BUG 회원
+      <td>2021. 06 ~ 2022. 12
+    </tr>
+    <tr>
+      <td>한성대학교 IT공과대학 정학생회장
+      <td>2022. 01 ~ 2022. 12
+    </tr>
+    <tr>
+      <td>한성대학교 졸업
+      <td>2023. 02
+    </tr>
+  </tbody>
+  </table>
+</div>
+<br>
+<br>
+<div align="center">
+<h3>🔖 Github Stats 🔖</h3>
 </div> 
 <hr class = "one">
 <div align="center">
