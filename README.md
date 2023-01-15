@@ -184,7 +184,7 @@
 <div align="center">
   ![qkrtjdwo5662's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrtjdwo5662&theme=dark&show_icons=true)
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrtjdwo5662&layout=compact&theme=dark&langs_count=8)](https://github.com/qkrtjdwo5662/qkrtjdwo5662)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrtjdwo5662&layout=compact&theme=dark&langs_count=8)
 </div> 
 <hr class = "one"></hr>
  
