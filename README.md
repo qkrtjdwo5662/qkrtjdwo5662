@@ -80,20 +80,12 @@
     </tr>
   </tbody>
   </table>
-  <table>
-    <thead>
-      <tr>
-      </tr>
-    </thead>
-    <tbody>
-    </tbody>
-  </table>
 </div>
 <br>
 <br>
 
 <div align="center">
-<h3>👨🏻‍💻 Projects
+<h3>👨🏻‍💻 Projects</h3>
 <hr class = "one">
   <table>
     <thead>
@@ -127,12 +119,69 @@
     </tbody>
   </table>
 </div>
+<br>
+<br>
+
+<div align="center">
+<h3>🏆 Awards</h3> 
+<hr class = "one">
+   <table>
+    <thead>
+      <tr>
+        <th>대회명
+        <th>수상 내용
+        <th>수상 날짜
+        <th>주최기간
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2021 한성공학경진대회
+        <td>금상(2위)
+        <td>2021. 09
+        <td>한성대학교 공학교육개발센터
+      </tr>
+      <tr>
+        <td>2021 한성 C&C Festival
+        <td>대상(1위)
+        <td>2022. 01
+        <td>한성대학교 창의융합교육지원센터
+      </tr>
+      <tr>
+        <td>2021 국방로봇경진대회
+        <td>한국로봇융합연구원장상(4위)
+        <td>2021. 12
+        <td>한화디펜스
+      </tr>
+      <tr>
+        <td>2021 한성발전공헌상
+        <td>한성발전공헌상
+        <td>2022. 06
+        <td>한성대학교 총장
+      </tr>
+      <tr>
+        <td>2022 컴퓨터공학부 캡스톤디자인
+        <td>우수상(2위)
+        <td>2022 .06
+        <td>한성대학교 컴퓨터공학부
+      </tr>
+      <tr>
+        <td>2022 한성공학경진대회
+        <td>동상(4위)
+        <td>2022. 09
+        <td>한성대학교 공학교육개발센터
+      </tr>
+    </tbody>
+  </table>
+</div>
+<br>
+<br>
+
 <div align="center">
 <h3>🔖 Github Stats</h3>
 </div> 
 <hr class = "one">
 <div align="center">
-  
   ![qkrtjdwo5662's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrtjdwo5662&theme=dark&show_icons=true)
   <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrtjdwo5662&layout=compact&theme=dark&langs_count=8)](https://github.com/qkrtjdwo5662/qkrtjdwo5662)
