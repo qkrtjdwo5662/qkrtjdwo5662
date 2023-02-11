@@ -78,6 +78,10 @@
       <td>한성대학교 졸업
       <td>2023. 02
     </tr>
+    <tr>
+      <td>K-Digital Training / Coding On(Web full stack bootcamp)
+      <td>2023. 01 ~ 2023. 04
+    </tr>
   </tbody>
   </table>
 </div>
