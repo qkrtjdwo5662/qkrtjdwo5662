@@ -101,7 +101,7 @@
     </thead>
     <tbody>
       <tr>
-        <td>HSU_On : 한성대학교 메타버스 캠퍼스
+        <td>HSU_On : 한성대학교 온라인 메타버스 캠퍼스
         <td>2021. 07 ~ 2022. 05(11개월)
         <td>C#, Unity, Photon
       </tr>
