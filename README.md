@@ -2,7 +2,15 @@
 <div align="center">
   <h2>Seong-Jae Park's Github</h2>
 </div>
-
+<div align="center">
+<br>
+<h3>😄 PROFILE</h3>
+<hr class = "one">
+<div align="center">
+  <li>
+    <ul>Blog : https://qkrtjdwo5662.tistory.com
+    <ul>Email : qkrtjdwo5662@naver.com
+  </li>
 <div align="center">
 <br>
 <h3>🛠 Tech Stacks</h3>
