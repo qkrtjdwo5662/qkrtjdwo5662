@@ -82,6 +82,10 @@
       <td>K-Digital Training / Coding On(Web full stack bootcamp)
       <td>2023. 01 ~ 2023. 04
     </tr>
+    <tr>
+      <td>삼성 청년 소프트웨어 아카데미
+      <td>2024. 01 ~ 
+    </tr>
   </tbody>
   </table>
 </div>
@@ -119,6 +123,16 @@
         <td>Hansung Vote : 학생회 선거 웹 어플리케이션
         <td>2022. 07 ~ 2022. 11(5개월)
         <td>Java, Spring, AWS
+      </tr>
+      <tr>
+        <td>Netflix Music : 음악 웹 어플리케이션(프론트 프로젝트)</td>
+        <td>2023. 02 ~ 2023. 03</td>
+        <td>HTML, SCSS, Javascript</td>
+      </tr>
+      <tr>
+        <td>Meet & Notes : 프로젝트 협업 관리</td>
+        <td>2023. 04</td>
+        <td>React, Redux, Express, Mongo DB</td>
       </tr>
     </tbody>
   </table>
@@ -174,6 +188,24 @@
         <td>동상(4위)
         <td>2022. 09
         <td>한성대학교 공학교육개발센터
+      </tr>
+      <tr>
+        <td>2023 한성대학교 졸업포상
+        <td>특별 공로상
+        <td>2023. 02
+        <td>한성대학교 총장
+      </tr>
+      <tr>
+        <td>2023 KDT 5기 1차 프로젝트
+        <td>대상(1위)
+        <td>2023. 03
+        <td>KDT 코딩온 웹 개발과정 5기
+      </tr>
+      <tr>
+        <td>2023 KDT 5기 2차 프로젝트
+        <td>최우수상(2위)
+        <td>2023. 03
+        <td>KDT 코딩온 웹 개발과정 5기
       </tr>
     </tbody>
   </table>
